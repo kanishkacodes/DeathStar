@@ -1,9 +1,15 @@
 import './App.css';
+import Banner from './components/Banner';
+import Navbar from './components/Navbar';
+import Searchbar from './components/Searchbar';
+
 
 function App() {
   return (
     <>
-    <span>Practo clone 1</span>
+    <Navbar/>
+    <Searchbar/>
+    <Banner/>
     </>
   );
 }
