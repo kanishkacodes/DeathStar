@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <span>Practo clone</span>
+    <span>Practo clone 1</span>
     </>
   );
 }
