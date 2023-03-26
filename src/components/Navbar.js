@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <>
       <div className="flex items-center justify-between bg-white shadow-sm py-4 px-8">
-        <div>
+        <div className="padding">
           <img src="https://www.practo.com/nav/9.5.15/consumer/images/practo.svg" alt="Practo logo" />
         </div>
         <div className="hidden md:block">
